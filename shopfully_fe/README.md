@@ -23,7 +23,7 @@ during the loading period.
 Many components (like the App Bar, the cards, the side windows for the favorite cards etc...) of the application are made   
 with Material UI version 5.   
 Every card contains an image, the retailer, the title and the category. If one of these titles is too long to be displayed, a tooltip    
-is available to show the full title. Every card has a heart button that allows to add that card to the favorite cards. This information   
+is available to show the full title. Every card has a heart button that allows to add that card to the favorites. This information   
 is stored by default in the local storage, but if the local storage is not supported, it uses cookies as fallback.   
 All the cards added to the favorites are available in the side window. To open the side window, just click on the menu icon in the upper left corner.   
 By clicking on the heart button of the item shown in the side window, it is possible to remove the item from favorites.
