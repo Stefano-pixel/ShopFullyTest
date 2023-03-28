@@ -1,0 +1,7 @@
+.card {
+  height: 300px; /* set the height to the desired value */
+  width: calc(
+    33.33% - 20px
+  ); /* set the width to a third of the container minus the margin */
+  margin: 10px; /* add some margin to the cards */
+}

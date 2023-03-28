@@ -1,0 +1,12 @@
+.BeerListItem-main-card {
+  width: 150px;
+  height: 250px;
+  margin: 10px;
+}
+
+.card-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+}
