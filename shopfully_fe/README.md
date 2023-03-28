@@ -9,7 +9,7 @@
 2. From the directory shopfully_fe run the command `npm install` and wait for all modules to be installed (it may take some time).
 3. Run the backend application following the instructions that you can find inside the folder shopfully_be.
 4. Run the command `npm start`, which will run the app in the development mode.
-   Open [http://localhost:3000](http://localhost:3000) to view it in your browser
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   
 ## Overview of the project
 
