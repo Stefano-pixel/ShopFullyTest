@@ -15,7 +15,7 @@
 
 When the application starts, it retrieves the number of flyers available. If there aren't any flyers, then an information popup will appear   
 informing the user that there aren't any flyers available. If there are connection problems, then an error popup will appear,   
-otherwise the flyers will appear in the form of cards and will be distributed by pages. Each page can contain a maximum of 100 flyers.   
+otherwise the flyers will appear in the form of cards and will be distributed in pages. Each page can contain a maximum of 100 flyers.   
 To improve the user experience and performance of the web application the pagination was used, so when the user changes  
 the page, new data is fetched from the server.   
 In this web application the loading state was managed. Indeed when the application does an api call, a spinner loading is shown   
